@@ -4,7 +4,11 @@ body
     color: #333;
     text-align: center;
 <<<<<<< HEAD
+<<<<<<< HEAD
     font-family: "Courier";
+=======
+    font-family: "Arial";
+>>>>>>> cabecera
 =======
     font-family: "Arial";
 >>>>>>> cabecera
@@ -14,7 +18,10 @@ body
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> cabecera
 #cabecera
 {
     background:#33A;
@@ -32,6 +39,9 @@ body
     font-size: 0.8em;
 }
 
+<<<<<<< HEAD
+>>>>>>> cabecera
+=======
 >>>>>>> cabecera
 #container
 {
