@@ -3,13 +3,20 @@ body
     /* color: deeppink; */
     color: #333;
     text-align: center;
+<<<<<<< HEAD
     font-family: "Courier";
     font-family: "Arial";
+=======
+>>>>>>> cabecera
     font-family: "Arial";
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> cabecera
 #cabecera
 {
     background:#33A;
@@ -26,6 +33,10 @@ body
     font-weight: normal;
     font-size: 0.8em;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> cabecera
 #container
 {
     width: 70%;
