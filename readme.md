@@ -1,4 +1,4 @@
-#hyperblog :tw-1f3c0:
+# hyperblog :tw-1f3c0:
 curso de git y github de platzi
 
 > este es el curso de git
